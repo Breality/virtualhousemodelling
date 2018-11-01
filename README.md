@@ -1,4 +1,4 @@
-# virtualhousemodelling
+# Virtual Reality House Modeling
 188 models to decorate your house. Love the design? We email you the retail prices and purchase link for all items!
 # What it does
 Using voice activated commands, you can place/rotate/cancel/move/destroy items in your virtual house. You see the models up close in Virtual reality, moving your position with the xbox controller. Most importantly, you can interact with our AI in a normal conversation, and it will load models for you to place as soon as one of the words you say has a search result. Don't have enough time? Just say "Save" to save current house. Yes, it will load. Can't get enough of it? Just say "Email" at any time so that we can email you the list of items you have, the retail price for each, and a link to purchase it. We even total it up for you in case you want to go on a shopping spree!
