@@ -1,0 +1,43 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.08.2017 19:03:34
+
+newmtl spec__141414_14_Material_7_wf_87_ATGR1596
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1922 0.4745 0.5451
+	Kd 0.1922 0.4745 0.5451
+	Ks 0.0784 0.0784 0.0784
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__141414_14_Material_7_wf_87_ATGR1596_Color_Correction_Map__0.jpg
+	map_Kd ./spec__141414_14_Material_7_wf_87_ATGR1596_Color_Correction_Map__0.jpg
+	map_Ks ./add_1024.jpg
+
+newmtl spec__191919_19_Material_21_wf_17_ATGR1596
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9882 0.3569 0.4902
+	Kd 0.9882 0.3569 0.4902
+	Ks 0.0980 0.0980 0.0980
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__191919_19_Material_21_wf_17_ATGR1596_Color_Correction_Map__3.jpg
+	map_Kd ./spec__191919_19_Material_21_wf_17_ATGR1596_Color_Correction_Map__3.jpg
+
+newmtl spec__d7d7d7_19_7____wf_50_ATGR1596
+	Ns 19.8000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0235 0.0235 0.0235
+	Kd 0.0235 0.0235 0.0235
+	Ks 0.8431 0.8431 0.8431
+	Ke 0.0000 0.0000 0.0000

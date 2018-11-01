@@ -1,0 +1,70 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.11.2017 04:39:16
+
+newmtl spec__000000_100_Material_0_wf_63_LGLY5857
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_100_Material_0_wf_63_LGLY5857_Bricks_String.jpg
+	map_Kd ./spec__000000_100_Material_0_wf_63_LGLY5857_Bricks_String.jpg
+
+newmtl spec__000000_98_Cloth_wf_66_LGLY5857
+	Ns 99.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./Cloth_1024.jpg
+	map_Kd ./Cloth_1024.jpg
+
+newmtl spec__141414_76_Wood_wf_14_LGLY5857
+	Ns 76.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0784 0.0784 0.0784
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./Wood2_1024.jpg
+	map_Kd ./Wood2_1024.jpg
+
+newmtl spec__383838_70_Material_1_wf_2_LGLY5857
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.2196 0.2196 0.2196
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_LGLY5857
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LGLY5857_shadow_plane_v6.png
+	map_Kd ./LGLY5857_shadow_plane_v6.png

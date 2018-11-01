@@ -1,0 +1,55 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.05.2018 03:08:20
+
+newmtl spec__525252_65_Material_2142147578_TRNT1677
+	Ns 65.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.3216 0.3216 0.3216
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__525252_65_Material_2142147578_TRNT1677_Color_Correction_Map__145.jpg
+	map_Kd ./spec__525252_65_Material_2142147578_TRNT1677_Color_Correction_Map__145.jpg
+	map_bump ./leather_015_2_r_1024_normal_Normal_Bump.jpg
+
+newmtl spec__422d21_79_Brass_wf_96_TRNT1677
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.2588 0.1765 0.1294
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__1e1e1e_50_RooomyBasicwood_TRNT1677
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0706 0.0314 0.0235
+	Kd 0.0706 0.0314 0.0235
+	Ks 0.1176 0.1176 0.1176
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_TRNT1677
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./TRNT1677_shadow_plane_v6.png
+	map_Kd ./TRNT1677_shadow_plane_v6.png

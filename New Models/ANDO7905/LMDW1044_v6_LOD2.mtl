@@ -1,0 +1,72 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 04.12.2017 23:47:53
+
+newmtl spec__080808_9_Material_25_wf_31_LMDW1044
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.1961 0.1961
+	Kd 0.5373 0.1961 0.1961
+	Ks 0.0314 0.0314 0.0314
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__080808_9_Material_25_wf_31_LMDW1044_VRayDirt_String.jpg
+	map_Kd ./spec__080808_9_Material_25_wf_31_LMDW1044_VRayDirt_String.jpg
+
+newmtl spec__080808_9_Material_26_wf_26_LMDW1044
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.1961 0.1961
+	Kd 0.5373 0.1961 0.1961
+	Ks 0.0314 0.0314 0.0314
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__080808_9_Material_26_wf_26_LMDW1044_VRayDirt_String.jpg
+	map_Kd ./spec__080808_9_Material_26_wf_26_LMDW1044_VRayDirt_String.jpg
+
+newmtl spec__080808_9_Material_27_wf_51_LMDW1044
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.1961 0.1961
+	Kd 0.5373 0.1961 0.1961
+	Ks 0.0314 0.0314 0.0314
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__080808_9_Material_27_wf_51_LMDW1044_VRayDirt_String.jpg
+	map_Kd ./spec__080808_9_Material_27_wf_51_LMDW1044_VRayDirt_String.jpg
+
+newmtl spec__080808_9_Material_28_wf_6_LMDW1044
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.1961 0.1961
+	Kd 0.5373 0.1961 0.1961
+	Ks 0.0314 0.0314 0.0314
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__080808_9_Material_28_wf_6_LMDW1044_VRayDirt_String.jpg
+	map_Kd ./spec__080808_9_Material_28_wf_6_LMDW1044_VRayDirt_String.jpg
+
+newmtl shadow_mtl_LMDW1044
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LMDW1044_shadow_plane_v6.png
+	map_Kd ./LMDW1044_shadow_plane_v6.png

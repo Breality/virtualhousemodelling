@@ -1,0 +1,83 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.05.2018 03:31:23
+
+newmtl spec__282828_79_RooomyStandard_wf_89_LOON6775
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0157 0.0157 0.0157
+	Kd 0.0157 0.0157 0.0157
+	Ks 0.1569 0.1569 0.1569
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__101010_70_RooomyStandard_wf_60_LOON6775
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0627 0.0627 0.0627
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LOON6775_1_1024.jpg
+	map_Kd ./LOON6775_1_1024.jpg
+	map_bump ./LOON6775_4_1024_normal_Normal_Bump.jpg
+
+newmtl spec__232323_79_RooomyStandard_wf_28_LOON6775
+	Ns 79.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.1373 0.1373 0.1373
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LOON6775_3_1024.jpg
+	map_Kd ./LOON6775_3_1024.jpg
+
+newmtl spec__5a5a5a_85_RooomyStandard_wf_92_LOON6775
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.3529 0.3529 0.3529
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LOON6775_2_1024.jpg
+	map_Kd ./LOON6775_2_1024.jpg
+
+newmtl spec__97885f_70_RooomyStandard_wf_64_LOON6775
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.5922 0.5333 0.3725
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_LOON6775
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LOON6775_shadow_plane_v6.png
+	map_Kd ./LOON6775_shadow_plane_v6.png

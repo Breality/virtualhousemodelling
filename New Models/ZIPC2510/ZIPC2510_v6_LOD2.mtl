@@ -1,0 +1,57 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.03.2018 16:40:15
+
+newmtl spec__000000_39_Material_15_wf_55_ZIPC2510
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_39_Material_15_wf_55_ZIPC2510_Gradient_Ramp_____4.jpg
+	map_Kd ./spec__000000_39_Material_15_wf_55_ZIPC2510_Gradient_Ramp_____4.jpg
+
+newmtl spec__626262_90_Material_14_wf_24_ZIPC2510
+	Ns 90.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.3843 0.3843 0.3843
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__000000_100_Material_13_wf_60_ZIPC2510
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./bupi3_1024.jpg
+	map_Kd ./bupi3_1024.jpg
+	map_bump ./bupi3_1024_normal_Normal_Bump.jpg
+
+newmtl shadow_mtl_ZIPC2510
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./ZIPC2510_shadow_plane_v6.png
+	map_Kd ./ZIPC2510_shadow_plane_v6.png

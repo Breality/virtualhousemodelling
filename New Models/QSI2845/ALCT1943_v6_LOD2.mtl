@@ -1,0 +1,43 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.01.2018 21:21:00
+
+newmtl spec__242424_72_WOOD_Fine_LimeSemiGloss_wf_96_ALCT1943
+	Ns 72.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3294 0.1098 0.0118
+	Kd 0.3294 0.1098 0.0118
+	Ks 0.1412 0.1412 0.1412
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__242424_72_WOOD_Fine_LimeSemiGloss_wf_96_ALCT1943_Mix_String.jpg
+	map_Kd ./spec__242424_72_WOOD_Fine_LimeSemiGloss_wf_96_ALCT1943_Mix_String.jpg
+	map_Ks ./ALCT1943_wood-055_cedar-lebanon-1_r_1024.jpg
+
+newmtl spec__cdc3aa_85_METAL_Smooth_BrassSatin_wf_80_ALCT1943
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0627 0.0549 0.0196
+	Kd 0.0627 0.0549 0.0196
+	Ks 0.8039 0.7647 0.6667
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_ALCT1943
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./ALCT1943_shadow_plane_v6.png
+	map_Kd ./ALCT1943_shadow_plane_v6.png

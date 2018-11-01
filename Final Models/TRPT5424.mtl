@@ -1,0 +1,82 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 16.06.2018 03:04:43
+
+newmtl spec__050505_30_Material_40_wf_55_TRPT5424
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0196 0.0196 0.0196
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__050505_30_Material_40_wf_55_TRPT5424_Color_Correction_Map__5.jpg
+	map_Kd ./spec__050505_30_Material_40_wf_55_TRPT5424_Color_Correction_Map__5.jpg
+	map_Ks ./bump_1024.jpg
+
+newmtl spec__050505_57_Material_26_wf_55_TRPT5424
+	Ns 57.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0196 0.0196 0.0196
+	Ke 0.0000 0.0000 0.0000
+	map_bump ./spec__050505_57_Material_26_wf_55_TRPT5424_Noise_Map__2_Normal_Bump.jpg
+
+newmtl spec__0a0a0a_60_Material_27_wf_88_TRPT5424
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0392 0.0392 0.0392
+	Ke 0.0000 0.0000 0.0000
+	map_bump ./spec__0a0a0a_60_Material_27_wf_88_TRPT5424_Noise_Map__3_Normal_Bump.jpg
+
+newmtl spec__c8c8c8_96_Material_39_wf_76_TRPT5424
+	Ns 96.0000
+	Ni 1.5000
+	d 0.1373
+	Tr 0.8627
+	Tf 0.1373 0.1373 0.1373 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.7843 0.7843 0.7843
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__0a0a0a_60_Material_27_wf_59_TRPT5424
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0392 0.0392 0.0392
+	Ke 0.0000 0.0000 0.0000
+	map_bump ./spec__0a0a0a_60_Material_27_wf_59_TRPT5424_Noise_Map__3_Normal_Bump.jpg
+
+newmtl shadow_mtl_TRPT5424
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./TRPT5424_shadow_plane_v6.png
+	map_Kd ./TRPT5424_shadow_plane_v6.png

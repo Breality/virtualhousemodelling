@@ -1,0 +1,58 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.01.2018 14:43:33
+
+newmtl spec__141414_72_RooomyBasicLeather_wf_76_RDBS3382
+	Ns 72.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0784 0.0784 0.0784
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__141414_72_RooomyBasicLeather_wf_76_RDBS3382_Color_Correction_String.jpg
+	map_Kd ./spec__141414_72_RooomyBasicLeather_wf_76_RDBS3382_Color_Correction_String.jpg
+	map_Ks ./RDBS3382_1_1024.jpg
+	map_bump ./RDBS3382_2_1024_normal_Normal_Bump.jpg
+
+newmtl spec__050505_65_Material_2142147726_wf_16_RDBS3382
+	Ns 65.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0118 0.0118
+	Kd 0.0118 0.0118 0.0118
+	Ks 0.0196 0.0196 0.0196
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__000000_100_Material_2142147727_wf_97_RDBS3382
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_100_Material_2142147727_wf_97_RDBS3382_Gradient_Ramp_String.jpg
+	map_Kd ./spec__000000_100_Material_2142147727_wf_97_RDBS3382_Gradient_Ramp_String.jpg
+
+newmtl shadow_mtl_RDBS3382
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./RDBS3382_shadow_plane_v6.png
+	map_Kd ./RDBS3382_shadow_plane_v6.png

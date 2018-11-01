@@ -1,0 +1,79 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.04.2018 21:28:02
+
+newmtl spec__141414_9_coat_Cap_wf_88_IVBX2760
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0784 0.0784 0.0784
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__141414_9_coat_Cap_wf_88_IVBX2760_Color_Correction_Map__1.jpg
+	map_Kd ./spec__141414_9_coat_Cap_wf_88_IVBX2760_Color_Correction_Map__1.jpg
+	map_bump ./spec__141414_9_coat_Cap_wf_88_IVBX2760_Color_Correction_Map__0_Normal_Bump.jpg
+
+newmtl spec__1f1f1f_9_base_wf_82_IVBX2760
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.1216 0.1216 0.1216
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__191919_9_lamp_coat_wf_41_IVBX2760
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9647 0.7569 0.5333
+	Kd 0.9647 0.7569 0.5333
+	Ks 0.0980 0.0980 0.0980
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__dfb997_40_stand_support_wf_61_IVBX2760
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1216 0.0902 0.0667
+	Kd 0.1216 0.0902 0.0667
+	Ks 0.8745 0.7255 0.5922
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__dfbb9b_50_Material_25_wf_49_IVBX2760
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1216 0.0902 0.0667
+	Kd 0.1216 0.0902 0.0667
+	Ks 0.8745 0.7333 0.6078
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_IVBX2760
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./IVBX2760_shadow_plane_v6.png
+	map_Kd ./IVBX2760_shadow_plane_v6.png

@@ -1,0 +1,70 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.04.2018 21:26:48
+
+newmtl spec__0a0a0a_0_Material_2142147584_wf_20_BNRS3934
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0078 0.0078 0.0078
+	Kd 0.0078 0.0078 0.0078
+	Ks 0.0392 0.0392 0.0392
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__000000_39_Material_2142147585_wf_72_BNRS3934
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_39_Material_2142147585_wf_72_BNRS3934_Color_Correction_Map__10.jpg
+	map_Kd ./spec__000000_39_Material_2142147585_wf_72_BNRS3934_Color_Correction_Map__10.jpg
+
+newmtl spec__000000_4_BNRS3934_Cloth_Design_wf_30
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_4_BNRS3934_Cloth_Design_wf_30_Color_Correction_Map__0.jpg
+	map_Kd ./spec__000000_4_BNRS3934_Cloth_Design_wf_30_Color_Correction_Map__0.jpg
+
+newmtl spec__000000_4_Material_2142147587_wf_49_BNRS3934
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_4_Material_2142147587_wf_49_BNRS3934_Color_Correction_Map__2.jpg
+	map_Kd ./spec__000000_4_Material_2142147587_wf_49_BNRS3934_Color_Correction_Map__2.jpg
+
+newmtl shadow_mtl_BNRS3934
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./BNRS3934_shadow_plane_v6.png
+	map_Kd ./BNRS3934_shadow_plane_v6.png

@@ -1,0 +1,61 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 07.03.2018 19:24:59
+
+newmtl spec__0c0c0c_18_Material_3_wf_100_RBRS6648
+	Ns 18.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2667 0.1922 0.5451
+	Kd 0.2667 0.1922 0.5451
+	Ks 0.0471 0.0471 0.0471
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./1111_1024.jpg
+	map_Kd ./1111_1024.jpg
+	map_bump ./aaaaa_1024_normal_Normal_Bump.jpg
+
+newmtl spec__0c0c0c_14_Material_3fd_wf_80_RBRS6648
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2667 0.1922 0.5451
+	Kd 0.2667 0.1922 0.5451
+	Ks 0.0471 0.0471 0.0471
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__0c0c0c_14_Material_3fd_wf_80_RBRS6648_Color_Correction_Map__9.jpg
+	map_Kd ./spec__0c0c0c_14_Material_3fd_wf_80_RBRS6648_Color_Correction_Map__9.jpg
+	map_bump ./55555555_1024_normal_Normal_Bump.jpg
+
+newmtl spec__0f0f0f_0_Material_2_wf_10_RBRS6648
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.5529 0.1765
+	Kd 0.2000 0.5529 0.1765
+	Ks 0.0588 0.0588 0.0588
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__0f0f0f_0_Material_2_wf_10_RBRS6648_Color_Correction_Map__1.jpg
+	map_Kd ./spec__0f0f0f_0_Material_2_wf_10_RBRS6648_Color_Correction_Map__1.jpg
+	map_bump ./55555_1024_normal_Normal_Bump.jpg
+
+newmtl shadow_mtl_RBRS6648
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./RBRS6648_shadow_plane_v6.png
+	map_Kd ./RBRS6648_shadow_plane_v6.png

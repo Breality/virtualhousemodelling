@@ -1,0 +1,59 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 30.11.2017 18:20:53
+
+newmtl spec__ffffff_18_Vraymat_wf_39_DBHC6357
+	Ns 18.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./Wood_Color_V01_1024.jpg
+	map_Kd ./Wood_Color_V01_1024.jpg
+	map_bump ./Wood_Bump_V01_1024_normal_Normal_Bump.jpg
+
+newmtl spec__ffffff_4_metal_wf_39_DBHC6357
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./Metal_Color_V01_1024.jpg
+	map_Kd ./Metal_Color_V01_1024.jpg
+	map_Ks ./Metal_Color_V01_1024.jpg
+	map_bump ./Metal_Bump_V01_1024_normal_Normal_Bump.jpg
+
+newmtl spec__ffffff_4_wheel_wf_8_DBHC6357
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0392 0.0392 0.0392
+	Kd 0.0392 0.0392 0.0392
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_DBHC6357
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./DBHC6357_shadow_plane_v6.png
+	map_Kd ./DBHC6357_shadow_plane_v6.png

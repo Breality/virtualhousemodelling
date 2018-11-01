@@ -1,0 +1,42 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.05.2018 20:48:36
+
+newmtl spec__77664c_90_metal_wf_82_MCRF4356
+	Ns 90.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.4667 0.4000 0.2980
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__040d1d_45_velvet_wf_42_MCRF4356
+	Ns 46.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0157 0.0510 0.1137
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__040d1d_45_velvet_wf_42_MCRF4356_Color_Correction_Map__20.jpg
+	map_Kd ./spec__040d1d_45_velvet_wf_42_MCRF4356_Color_Correction_Map__20.jpg
+
+newmtl shadow_mtl_MCRF4356
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./MCRF4356_shadow_plane_v6.png
+	map_Kd ./MCRF4356_shadow_plane_v6.png

@@ -1,0 +1,46 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.12.2017 07:12:00
+
+newmtl spec__000000_39_Material_1_wf_67_ALCT4979
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.1961 0.1961
+	Kd 0.5373 0.1961 0.1961
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./ALCT4979_diffuse_V01_1024.jpg
+	map_Kd ./ALCT4979_diffuse_V01_1024.jpg
+	map_bump ./ALCT4979_bump_V01_1024_normal_Normal_Bump.jpg
+
+newmtl spec__0d0d0d_4_Material_2_wf_42_ALCT4979
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2000 0.5529 0.1765
+	Kd 0.2000 0.5529 0.1765
+	Ks 0.0510 0.0510 0.0510
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./ALCT5059_diffuse_leg_v01_1024.jpg
+	map_Kd ./ALCT5059_diffuse_leg_v01_1024.jpg
+	map_bump ./ALCT5059_bump_leg_v01_1024_normal_Normal_Bump.jpg
+
+newmtl shadow_mtl_ALCT4979
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./ALCT4979_shadow_plane_v6.png
+	map_Kd ./ALCT4979_shadow_plane_v6.png

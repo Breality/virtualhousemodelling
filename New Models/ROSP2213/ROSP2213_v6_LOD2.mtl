@@ -1,0 +1,69 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 20.12.2017 14:12:54
+
+newmtl spec__e9e9e9_25_Diamond_wf_78_ROSP2213
+	Ns 25.0000
+	Ni 1.5000
+	d 0.0471
+	Tr 0.9529
+	Tf 0.0471 0.0471 0.0471 
+	illum 2
+	Ka 0.7647 0.7647 0.7647
+	Kd 0.7647 0.7647 0.7647
+	Ks 0.9137 0.9137 0.9137
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__050505_60_Material_2142147585_wf_21_ROSP2213
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6392 0.5490 0.1922
+	Kd 0.6392 0.5490 0.1922
+	Ks 0.0196 0.0196 0.0196
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__050505_60_Material_2142147585_wf_21_ROSP2213_Color_Correction_String.jpg
+	map_Kd ./spec__050505_60_Material_2142147585_wf_21_ROSP2213_Color_Correction_String.jpg
+	map_bump ./spec__050505_60_Material_2142147585_wf_21_ROSP2213_Cellular_String_Normal_Bump.jpg
+
+newmtl spec__000000_39_Material_21_wf_44_ROSP2213
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__030303_25_Material_3_wf_93_ROSP2213
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2667 0.1922 0.5451
+	Kd 0.2667 0.1922 0.5451
+	Ks 0.0118 0.0118 0.0118
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__030303_25_Material_3_wf_93_ROSP2213_Mix_String.jpg
+	map_Kd ./spec__030303_25_Material_3_wf_93_ROSP2213_Mix_String.jpg
+
+newmtl shadow_mtl_ROSP2213
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./ROSP2213_shadow_plane_v6.png
+	map_Kd ./ROSP2213_shadow_plane_v6.png

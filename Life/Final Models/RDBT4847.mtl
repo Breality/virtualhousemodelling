@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.03.2018 00:26:01
+
+newmtl spec__242424_70_Material_26_wf_76_RDBT4847
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.1412 0.1412 0.1412
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__242424_70_Material_26_wf_76_RDBT4847_Color_Correction_Map__18.jpg
+	map_Kd ./spec__242424_70_Material_26_wf_76_RDBT4847_Color_Correction_Map__18.jpg
+
+newmtl shadow_mtl_RDBT4847
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./RDBT4847_shadow_plane_v6.png
+	map_Kd ./RDBT4847_shadow_plane_v6.png

@@ -1,0 +1,83 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.03.2018 15:05:02
+
+newmtl spec__020202_0_QWEQWE_wf_57_ATGR1540
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0078 0.0078 0.0078
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./WoodPlatesNew0011_3_1024.jpg
+	map_Kd ./WoodPlatesNew0011_3_1024.jpg
+
+newmtl spec__050505_19_01_Default_wf_38_ATGR1540
+	Ns 20.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0196 0.0196 0.0196
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__050505_19_01-Default_wf_38_ATGR1540_VRayDirt_Map__62.jpg
+	map_Kd ./spec__050505_19_01-Default_wf_38_ATGR1540_VRayDirt_Map__62.jpg
+
+newmtl spec__050505_39_Material_25_wf_41_ATGR1540
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0196 0.0196 0.0196
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__050505_39_Material_25_wf_41_ATGR1540_VRayDirt_Map__63.jpg
+	map_Kd ./spec__050505_39_Material_25_wf_41_ATGR1540_VRayDirt_Map__63.jpg
+
+newmtl spec__cfcfcf_0_7______wf_20_ATGR1540
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0706 0.0706 0.0706
+	Kd 0.0706 0.0706 0.0706
+	Ks 0.8118 0.8118 0.8118
+	Ke 0.0000 0.0000 0.0000
+	map_bump ./spec__cfcfcf_0_7______wf_20_ATGR1540_Noise_Map__61_Normal_Bump.jpg
+
+newmtl spec__4d4d4d_40_4__4_wf_63_ATGR1540
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0118 0.0118
+	Kd 0.0118 0.0118 0.0118
+	Ks 0.3020 0.3020 0.3020
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_ATGR1540
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./ATGR1540_shadow_plane_v6.png
+	map_Kd ./ATGR1540_shadow_plane_v6.png

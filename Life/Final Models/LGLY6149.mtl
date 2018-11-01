@@ -1,0 +1,68 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.11.2017 04:39:36
+
+newmtl spec__000000_100_bu_wf_97_GOLV1109
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2667 0.1922 0.5451
+	Kd 0.2667 0.1922 0.5451
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_100_bu_wf_97_GOLV1109_Mix_String.jpg
+	map_Kd ./spec__000000_100_bu_wf_97_GOLV1109_Mix_String.jpg
+
+newmtl spec__141414_75_bu_wf_30_GOLV1109
+	Ns 75.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5020 0.5020 0.4353
+	Kd 0.5020 0.5020 0.4353
+	Ks 0.0784 0.0784 0.0784
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./GOLV1109_p2_1024.jpg
+	map_Kd ./GOLV1109_p2_1024.jpg
+
+newmtl spec__dcdcdc_100_didian_wf_74_GOLV1109
+	Ns 100.0000
+	Ni 1.5000
+	d 0.0980
+	Tr 0.9020
+	Tf 0.0980 0.0980 0.0980 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.8627 0.8627 0.8627
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__000000_100_bu_wf_90_GOLV1109
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1843 0.3843 0.3922
+	Kd 0.1843 0.3843 0.3922
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_GOLV1109
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./GOLV1109_shadow_plane_v6.png
+	map_Kd ./GOLV1109_shadow_plane_v6.png

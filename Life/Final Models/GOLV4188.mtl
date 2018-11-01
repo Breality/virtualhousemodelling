@@ -1,0 +1,109 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.08.2018 20:58:12
+
+newmtl spec__0a0a0a_70_RooomyStandard_wf_2_GOLV4188
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0392 0.0392 0.0392
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__1_MultiTile.tga
+	map_Kd Map__1_MultiTile.tga
+	map_Ks Map__3_MultiTile.tga
+
+newmtl spec__0d0a14_70_RooomyStandard_wf_30_GOLV4188
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0824 0.0941 0.1098
+	Kd 0.0824 0.0941 0.1098
+	Ks 0.0510 0.0392 0.0784
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__5_MultiTile.tga
+	map_Kd Map__5_MultiTile.tga
+
+newmtl spec__353535_79_RooomyStandard_wf_27_GOLV4188
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9020 0.9020 0.9020
+	Kd 0.9020 0.9020 0.9020
+	Ks 0.2078 0.2078 0.2078
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__050505_60_RooomyStandard_wf_55_GOLV4188
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0196 0.0196 0.0196
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__7_MultiTile.tga
+	map_Kd Map__7_MultiTile.tga
+	map_bump GOLV4188_2_1024_normal_Normal_Bump.tga
+
+newmtl spec__d2d2d2_97_Chrom_wf_68_GOLV4188
+	Ns 98.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.8235 0.8235 0.8235
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__d2d2d2_97_Chrom_wf_96_GOLV4188
+	Ns 98.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.8235 0.8235 0.8235
+	Ke 0.0000 0.0000 0.0000
+	map_Ks Map__9_MultiTile.tga
+
+newmtl spec__f5f5f5_97_RooomyStandard_wf_60_GOLV4188
+	Ns 98.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.9020 0.9020 0.9020
+	Kd 0.9020 0.9020 0.9020
+	Ks 0.9608 0.9608 0.9608
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_GOLV4188
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\3DRender\WorkingModels\GOLV4188_1534294203\GOLV4188_v6_LOD2.fbm\GOLV4188_shadow_plane_v6.png
+	map_Kd D:\3DRender\WorkingModels\GOLV4188_1534294203\GOLV4188_v6_LOD2.fbm\GOLV4188_shadow_plane_v6.png

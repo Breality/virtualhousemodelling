@@ -1,0 +1,42 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 01.12.2017 04:14:27
+
+newmtl spec__000000_39_Material_2_wf_19_CSTM1643
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.1961 0.1961
+	Kd 0.5373 0.1961 0.1961
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_39_Material_2_wf_19_CSTM1643_Color_Correction_String.jpg
+	map_Kd ./spec__000000_39_Material_2_wf_19_CSTM1643_Color_Correction_String.jpg
+
+newmtl spec__000000_25_Material_2uy_wf_77_CSTM1643
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0078 0.0039 0.0039
+	Kd 0.0078 0.0039 0.0039
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_CSTM1643
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./CSTM1643_shadow_plane_v6.png
+	map_Kd ./CSTM1643_shadow_plane_v6.png

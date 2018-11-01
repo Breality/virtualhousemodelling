@@ -1,0 +1,54 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.12.2017 04:31:51
+
+newmtl spec__f0f0f0_9_chrome_wf_26_MNQ2601
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4431 0.4431 0.4431
+	Kd 0.4431 0.4431 0.4431
+	Ks 0.9412 0.9412 0.9412
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__000000_29_Material_1_wf_39_MNQ2601
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.1961 0.1961
+	Kd 0.5373 0.1961 0.1961
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./CST12837_Wood_1024.jpg
+	map_Kd ./CST12837_Wood_1024.jpg
+
+newmtl spec__000000_14_Material_2_wf_24_MNQ2601
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0118 0.0118
+	Kd 0.0118 0.0118 0.0118
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_MNQ2601
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./MNQ2601_shadow_plane_v6.png
+	map_Kd ./MNQ2601_shadow_plane_v6.png

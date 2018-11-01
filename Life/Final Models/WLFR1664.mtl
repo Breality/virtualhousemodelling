@@ -1,0 +1,42 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.11.2017 15:50:18
+
+newmtl spec__141414_85_Material_25_wf_76_WLFR1664
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0784 0.0784 0.0784
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__323232_85_Material_26_wf_96_WLFR1664
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.1961 0.1961 0.1961
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./16951f55cfd454c607ad09c36e445563--marble-texture-white-marble_1024.jpg
+	map_Kd ./16951f55cfd454c607ad09c36e445563--marble-texture-white-marble_1024.jpg
+
+newmtl shadow_mtl_WLFR1664
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./WLFR1664_shadow_plane_v6.png
+	map_Kd ./WLFR1664_shadow_plane_v6.png

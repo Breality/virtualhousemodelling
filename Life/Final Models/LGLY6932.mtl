@@ -1,0 +1,45 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 12.11.2017 10:46:40
+
+newmtl spec__0d0d0d_60_Metal_wf_95_TADN9456
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1765 0.1765 0.1765
+	Kd 0.1765 0.1765 0.1765
+	Ks 0.0510 0.0510 0.0510
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./TADN9456_meatel_diffuse_1024.jpg
+	map_Kd ./TADN9456_meatel_diffuse_1024.jpg
+	map_bump ./TADN9456_meatel_bump_1024_normal_Normal_Bump.jpg
+
+newmtl spec__070707_65_Material_13_wf_56_TADN9456
+	Ns 65.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1961 0.1961 0.1961
+	Kd 0.1961 0.1961 0.1961
+	Ks 0.0275 0.0275 0.0275
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__070707_65_Material_13_wf_56_TADN9456_CompositeTexturemap_String.jpg
+	map_Kd ./spec__070707_65_Material_13_wf_56_TADN9456_CompositeTexturemap_String.jpg
+
+newmtl shadow_mtl_TADN9456
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./TADN9456_shadow_plane_v6.png
+	map_Kd ./TADN9456_shadow_plane_v6.png

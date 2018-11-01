@@ -1,0 +1,96 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 29.03.2018 14:21:10
+
+newmtl spec__0a0a0a_75_Material_7_wf_20_IRD1949
+	Ns 75.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0392 0.0392 0.0392
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__0a0a0a_75_Material_7_wf_20_IRD1949_Mix_Map__9.jpg
+	map_Kd ./spec__0a0a0a_75_Material_7_wf_20_IRD1949_Mix_Map__9.jpg
+
+newmtl spec__c8c8c8_85_Material_4_wf_83_IRD1949
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.7843 0.7843 0.7843
+	Ke 0.0000 0.0000 0.0000
+	map_Ks ./spec__c8c8c8_85_Material_4_wf_83_IRD1949_Noise_Map__5.jpg
+
+newmtl spec__646464_93_Material_2_wf_58_IRD1949
+	Ns 93.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.3922 0.3922 0.3922
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__646464_93_Material_2_wf_58_IRD1949_Color_Correction_Map__1.jpg
+	map_Kd ./spec__646464_93_Material_2_wf_58_IRD1949_Color_Correction_Map__1.jpg
+
+newmtl spec__c8c8c8_72_Material_3_wf_53_IRD1949
+	Ns 72.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.7843 0.7843 0.7843
+	Ke 0.0000 0.0000 0.0000
+	map_Ks ./spec__c8c8c8_72_Material_3_wf_53_IRD1949_Mix_Map__15.jpg
+	map_bump ./spec__c8c8c8_72_Material_3_wf_53_IRD1949_Mix_Map__15_Normal_Bump.jpg
+
+newmtl spec__323232_85_Material_6_wf_20_IRD1949
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.1961 0.1961 0.1961
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__646464_79_Material_5_wf_6_IRD1949
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.3922 0.3922 0.3922
+	Ke 0.0000 0.0000 0.0000
+	map_Ks ./spec__646464_79_Material_5_wf_6_IRD1949_Noise_Map__7.jpg
+
+newmtl shadow_mtl_IRD1949
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./IRD1949_shadow_plane_v6.png
+	map_Kd ./IRD1949_shadow_plane_v6.png

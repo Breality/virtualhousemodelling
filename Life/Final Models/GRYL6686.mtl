@@ -1,0 +1,69 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.08.2017 21:47:31
+
+newmtl spec__242424_26_Material_1_wf_58_LOON8499
+	Ns 27.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0275 0.0275 0.0275
+	Kd 0.0275 0.0275 0.0275
+	Ks 0.1412 0.1412 0.1412
+	Ke 0.0000 0.0000 0.0000
+	map_bump ./spec__242424_26_Material_1_wf_58_LOON8499_Noise_String_Normal_Bump.jpg
+
+newmtl spec__b4b4b4_59_Aluminum_wf_66_LOON8499
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0980 0.0980 0.0980
+	Kd 0.0980 0.0980 0.0980
+	Ks 0.7059 0.7059 0.7059
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__505050_9_Plastic_black_matte_wf_95_LOON8499
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.3137 0.3137 0.3137
+	Ke 0.0000 0.0000 0.0000
+	map_Ks ./dr_7_1024.jpg
+
+newmtl spec__282828_6_Material_7_wf_78_LOON8499
+	Ns 6.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1922 0.3098 0.5451
+	Kd 0.1922 0.3098 0.5451
+	Ks 0.1569 0.1569 0.1569
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./Untitled-2_1024.jpg
+	map_Kd ./Untitled-2_1024.jpg
+	map_bump ./Untitled_2_b_1024_normal_Normal_Bump.jpg
+
+newmtl shadow_mtl_LOON8499
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LOON8499_shadow_plane_v6.png
+	map_Kd ./LOON8499_shadow_plane_v6.png

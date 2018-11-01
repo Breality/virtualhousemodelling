@@ -1,0 +1,40 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.06.2018 06:30:29
+
+newmtl spec__0c0c0c_79_StainlessSteel_wf_80_BRWT1400
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4000 0.0000 0.0000
+	Kd 0.4000 0.0000 0.0000
+	Ks 0.0471 0.0471 0.0471
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__212121_60_Material_2142147587_wf_82_BRWT1400
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6157 0.6157 0.6157
+	Kd 0.6157 0.6157 0.6157
+	Ks 0.1294 0.1294 0.1294
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_BRWT1400
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./BRWT1400_shadow_plane_v6.png
+	map_Kd ./BRWT1400_shadow_plane_v6.png

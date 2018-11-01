@@ -1,0 +1,77 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.11.2017 18:06:07
+
+newmtl spec__fa9533_90_Brass_Polished_wf_10_ZPCD2910
+	Ns 90.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1059 0.0706 0.0314
+	Kd 0.1059 0.0706 0.0314
+	Ks 0.9804 0.5843 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ks ./spec__fa9533_90_Brass-Polished_wf_10_ZPCD2910_Noise_String.jpg
+
+newmtl spec__f4f4f4_97_Glass_Clear_1_wf_35_ZPCD2910
+	Ns 98.0000
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.9569 0.9569 0.9569
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__000000_39_Material_3_wf_50_ZPCD2910
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0078 0.0078 0.0078
+	Kd 0.0078 0.0078 0.0078
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__d2d2d2_90_Chrome_Polished_wf_10_ZPCD2910
+	Ns 90.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.8235 0.8235 0.8235
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__f4f4f4_97_plastic_wf_98_ZPCD2910
+	Ns 98.0000
+	Ni 1.5000
+	d 0.6275
+	Tr 0.3725
+	Tf 0.6275 0.6275 0.6275 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.9569 0.9569 0.9569
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_ZPCD2910
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./ZPCD2910_shadow_plane_v6.png
+	map_Kd ./ZPCD2910_shadow_plane_v6.png

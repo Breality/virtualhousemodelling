@@ -1,0 +1,67 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.06.2018 23:31:38
+
+newmtl spec__f4f4f4_97_Material_42_wf_20_UNRS3213
+	Ns 98.0000
+	Ni 1.5000
+	d 0.0000
+	Tr 1.0000
+	Tf 0.0000 0.0000 0.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.9569 0.9569 0.9569
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__030303_64_Material_41_wf_19_UNRS3213
+	Ns 64.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0118 0.0118 0.0118
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__c7c7c7_85_Material_43_wf_46_UNRS3213
+	Ns 86.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.7804 0.7804 0.7804
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__0f0f0f_70_Material_39_wf_42_UNRS3213
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1961 0.7843 0.7059
+	Kd 0.1961 0.7843 0.7059
+	Ks 0.0588 0.0588 0.0588
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__0f0f0f_70_Material_39_wf_42_UNRS3213_Color_Correction_Map__2138387534.jpg
+	map_Kd ./spec__0f0f0f_70_Material_39_wf_42_UNRS3213_Color_Correction_Map__2138387534.jpg
+	map_bump ./spec__0f0f0f_70_Material_39_wf_42_UNRS3213_Color_Correction_Map__2138387521_Normal_Bump.jpg
+
+newmtl shadow_mtl_UNRS3213
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./UNRS3213_shadow_plane_v6.png
+	map_Kd ./UNRS3213_shadow_plane_v6.png

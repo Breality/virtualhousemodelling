@@ -1,0 +1,67 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 16.11.2017 11:17:33
+
+newmtl spec__1e1e1e_14_metal_wf_51_WHI5993
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0118
+	Kd 0.0039 0.0039 0.0118
+	Ks 0.1176 0.1176 0.1176
+	Ke 0.0000 0.0000 0.0000
+	map_bump ./snow_soot_DISP_1024_normal_Normal_Bump.jpg
+
+newmtl spec__323232_14_wood_tex_wf_53_WHI5993
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.1961 0.1961
+	Kd 0.5373 0.1961 0.1961
+	Ks 0.1961 0.1961 0.1961
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__323232_14_wood_tex_wf_53_WHI5993_VRayDirt_String.jpg
+	map_Kd ./spec__323232_14_wood_tex_wf_53_WHI5993_VRayDirt_String.jpg
+
+newmtl spec__1e1e1e_14_tire_wf_13_WHI5993
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0078 0.0078 0.0078
+	Kd 0.0078 0.0078 0.0078
+	Ks 0.1176 0.1176 0.1176
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__728aa4_14_chrome_wf_15_WHI5993
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.4471 0.5412 0.6431
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_WHI5993
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./WHI5993_shadow_plane_v6.png
+	map_Kd ./WHI5993_shadow_plane_v6.png

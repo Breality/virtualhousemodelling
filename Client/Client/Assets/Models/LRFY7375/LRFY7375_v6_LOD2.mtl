@@ -1,0 +1,59 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.11.2017 20:42:15
+
+newmtl spec__232323_72_muwen_wf_27_LRFY7375
+	Ns 73.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.1373 0.1373 0.1373
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./qwe001_1024.jpg
+	map_Kd ./qwe001_1024.jpg
+	map_Ks ./qwe002_1024.jpg
+	map_bump ./qwe002_1024_normal_Normal_Bump.jpg
+
+newmtl spec__232323_72_muwen_wf_50_LRFY7375
+	Ns 73.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.1373 0.1373 0.1373
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./qwe003_1024.jpg
+	map_Kd ./qwe003_1024.jpg
+	map_Ks ./qwe004_1024.jpg
+
+newmtl spec__0a0a0a_70_jinsu_wf_43_LRFY7375
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0392 0.0392 0.0392
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_LRFY7375
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LRFY7375_shadow_plane_v6.png
+	map_Kd ./LRFY7375_shadow_plane_v6.png

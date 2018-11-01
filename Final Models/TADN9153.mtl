@@ -1,0 +1,45 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.10.2017 17:38:47
+
+newmtl spec__6b6b6b_70_Chrome_wf_56_TADN9153
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0078 0.0078 0.0078
+	Kd 0.0078 0.0078 0.0078
+	Ks 0.4196 0.4196 0.4196
+	Ke 0.0000 0.0000 0.0000
+	map_Ks ./TADN9153_metal_diffuse_v01_1024.jpg
+	map_bump ./TADN9153_metal_bump_v01_1024_normal_Normal_Bump.jpg
+
+newmtl spec__1e1e1e_79_wood_wf_7_TADN9153
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.1176 0.1176 0.1176
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./TADN9153_wood_diffuse_v01_1024.jpg
+	map_Kd ./TADN9153_wood_diffuse_v01_1024.jpg
+	map_bump ./TADN9153_wood_bump_v01_1024_normal_Normal_Bump.jpg
+
+newmtl shadow_mtl_TADN9153
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./TADN9153_shadow_plane_v6.png
+	map_Kd ./TADN9153_shadow_plane_v6.png

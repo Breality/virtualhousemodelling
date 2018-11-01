@@ -1,0 +1,40 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.11.2017 08:49:27
+
+newmtl spec__d9d9d9_79_ChromeSemiGloss_wf_87_WADL4054
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0118 0.0118
+	Kd 0.0118 0.0118 0.0118
+	Ks 0.8510 0.8510 0.8510
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__b9b9b9_85_PaintWhiteGloss_wf_100_WADL4054
+	Ns 85.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7451 0.7451 0.7451
+	Kd 0.7451 0.7451 0.7451
+	Ks 0.7255 0.7255 0.7255
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_WADL4054
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./WADL4054_shadow_plane_v6.png
+	map_Kd ./WADL4054_shadow_plane_v6.png

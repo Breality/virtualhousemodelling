@@ -1,0 +1,46 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 26.08.2017 21:01:39
+
+newmtl spec__6a6a6a_14_Metal_wf_93_CHLH1561
+	Ns 15.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3490 0.3490 0.3490
+	Kd 0.3490 0.3490 0.3490
+	Ks 0.4157 0.4157 0.4157
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./color_v01_1024.jpg
+	map_Kd ./color_v01_1024.jpg
+	map_bump ./bumb_v01_1024_normal_Normal_Bump.jpg
+
+newmtl spec__545454_4_Wood_wf_62_CHLH1561
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.3373 0.3373 0.3373
+	Kd 0.3373 0.3373 0.3373
+	Ks 0.3294 0.3294 0.3294
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./color_v01_1024.jpg
+	map_Kd ./color_v01_1024.jpg
+	map_bump ./bumb_v01_1024_normal_Normal_Bump.jpg
+
+newmtl shadow_mtl_CHLH1561
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./CHLH1561_shadow_plane_v6.png
+	map_Kd ./CHLH1561_shadow_plane_v6.png

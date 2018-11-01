@@ -1,0 +1,70 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.12.2017 08:16:24
+
+newmtl spec__414141_75_blinn3_wf_66_TRPT1522
+	Ns 75.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7608 0.6431 0.5490
+	Kd 0.7608 0.6431 0.5490
+	Ks 0.2549 0.2549 0.2549
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__545454_79_Bulb_wf_32_TRPT1522
+	Ns 80.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8471 0.8471 0.8471
+	Kd 0.8471 0.8471 0.8471
+	Ks 0.3294 0.3294 0.3294
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__000000_100_Material_2142147578_wf_29_TRPT1522
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./TRPT1522_Fabric_Diffuse_V01_1024.jpg
+	map_Kd ./TRPT1522_Fabric_Diffuse_V01_1024.jpg
+	map_bump ./TRPT1522_Fabric_Bump_V01_1024_normal_Normal_Bump.jpg
+
+newmtl spec__1b1b1b_75_Metal_wf_55_TRPT1522
+	Ns 75.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0118 0.0039 0.0039
+	Kd 0.0118 0.0039 0.0039
+	Ks 0.1059 0.1059 0.1059
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__1b1b1b_75_Metal_wf_55_TRPT1522_Color_Correction_String.jpg
+	map_Kd ./spec__1b1b1b_75_Metal_wf_55_TRPT1522_Color_Correction_String.jpg
+	map_bump ./TRPT1522_Metal_Bump_V01_1024_normal_Normal_Bump.jpg
+
+newmtl shadow_mtl_TRPT1522
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./TRPT1522_shadow_plane_v6.png
+	map_Kd ./TRPT1522_shadow_plane_v6.png
